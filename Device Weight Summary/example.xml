@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<f:device-list xmlns:f="http://main.g2planet.com/codetest/example" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://main.g2planet.com/codetest/example.xsd">
+  <f:device name="Voltage Converter" quantity="2" serial_number="20011">
+    <f:weight units="pounds">3.00</f:weight>
+  </f:device>
+  <f:device name="24-port switch" quantity="2" serial_number="24PORTSW-004">
+    <f:weight units="pounds">3.34</f:weight>
+  </f:device>
+  <f:device name="4GJetPack" quantity="4" serial_number="321422551487">
+    <f:weight units="pounds">0.50</f:weight>
+  </f:device>
+  <f:device name="Metrologic Focus FirstFlash USB Barcode Gun Holder" quantity="1" serial_number="BRCDHLDR-10001">
+    <f:weight units="pounds">3.00</f:weight>
+  </f:device>
+  <f:device name="Barcode Scanner" quantity="2" serial_number="BARCDSCNR-10011">
+    <f:weight units="pounds">1.33</f:weight>
+  </f:device>
+  <f:device name="Brother printer" quantity="1" serial_number="BrthPrntr-01">
+    <f:weight units="pounds">10.00</f:weight>
+  </f:device>
+  <f:device name="Cisco Aironet" quantity="1" serial_number="FHK0745J36K">
+    <f:weight units="pounds">1.81</f:weight>
+  </f:device>
+  <f:device name="CP-60 Printer" quantity="8" serial_number="CP60-Printer">
+    <f:weight units="pounds">6.00</f:weight>
+  </f:device>
+  <f:device name="Canon-EOS40D" quantity="1" serial_number="Canon-EOS40D-10001">
+    <f:weight units="pounds">10.00</f:weight>
+  </f:device>
+  <f:device name="Jigsaw" quantity="24" serial_number="600040228">
+    <f:weight units="pounds">1.53</f:weight>
+  </f:device>
+  <f:device name="Jigsaw Power" quantity="24" serial_number="JIGPWR-10081">
+    <f:weight units="pounds">1.25</f:weight>
+  </f:device>
+  <f:device name="RW-400" quantity="18" serial_number="RW400-10008">
+    <f:weight units="ounces">12</f:weight>
+  </f:device>
+  <f:device name="RW/400 PWR" quantity="18" serial_number="rw4pwr-10136">
+    <f:weight units="pounds">0.63</f:weight>
+  </f:device>
+  <f:device name="Google Nexus-(SPH-D720)" quantity="80" serial_number="30349503C55F00EC">
+    <f:weight units="pounds">1.00</f:weight>
+  </f:device>
+  <f:device name="Power transformer" quantity="5" serial_number="PWRTRNSFRMR-20001">
+    <f:weight units="pounds">40.00</f:weight>
+  </f:device>
+  <f:device name="USB MagStripe Reader" quantity="1" serial_number="2TE1020291">
+    <f:weight units="pounds">0.25</f:weight>
+  </f:device>
+  <f:device name="WebDT Reader" quantity="10" serial_number="430C01401943007">
+    <f:weight units="pounds">0.94</f:weight>
+  </f:device>
+  <f:device name="iPad2" quantity="3" serial_number="SDLXGVVSXDFHW">
+    <f:weight units="ounces">12</f:weight>
+  </f:device>
+</f:device-list>

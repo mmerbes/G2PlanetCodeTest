@@ -1,0 +1,24 @@
+
+html, body {
+    height: 100%;
+}
+
+.container {
+    padding-top: 5%;
+}
+.title {
+    font-size: 96px;
+}
+
+.opt {
+    margin-top: 30px;
+}
+
+.opt a {
+    text-decoration: none;
+    font-size: 150%;
+}
+
+a:hover {
+    color: red;
+}
